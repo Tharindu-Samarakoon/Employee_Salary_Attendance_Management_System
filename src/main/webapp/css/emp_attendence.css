@@ -1,0 +1,48 @@
+
+element.style{
+  font-size: 16px;
+}
+html {
+  font-size: 16px;
+}
+html {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+user agent stylesheet
+html {
+  display: block;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.attendence-table {
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.profileCard {
+
+  background-color: rgb(255, 255, 255);
+  margin: 15px;
+
+}
+
+.fullbody {
+  margin-left: 8%;
+  margin-right: 8%;
+}
